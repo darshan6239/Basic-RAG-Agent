@@ -1,5 +1,4 @@
 import streamlit as st
-
 from rag import ask_rag
 
 st.set_page_config(
